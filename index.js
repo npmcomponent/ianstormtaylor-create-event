@@ -1,6 +1,6 @@
 
-var extend = require('extend')
-  , keycode = require('keycode');
+var extend = require('segmentio-extend')
+  , keycode = require('timoxley-keycode');
 
 
 /**

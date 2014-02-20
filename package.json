@@ -1,0 +1,17 @@
+{
+  "name": "ianstormtaylor-create-event",
+  "description": "Create an event object cross browser. Useful for unit testing mostly.",
+  "version": "0.0.3",
+  "keywords": [
+    "event",
+    "create",
+    "dispatch",
+    "testing",
+    "test"
+  ],
+  "dependencies": {
+    "timoxley-keycode": "git://github.com/npmcomponent/timoxley-keycode.git",
+    "segmentio-extend": "git://github.com/npmcomponent/segmentio-extend.git"
+  },
+  "license": "MIT"
+}
